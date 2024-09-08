@@ -12,3 +12,4 @@ custom model : MyNeuronNetwork
 with loss func i use cross entropy loss
 ## training
 this is my training process: 
+![My Image](./images/img.png)
