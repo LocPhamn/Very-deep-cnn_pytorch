@@ -13,3 +13,5 @@ with loss func i use cross entropy loss
 ## training
 this is my training process: 
 ![My Image](./visualization/img.png)
+![My Image1](./visualization/img_1.png)
+
